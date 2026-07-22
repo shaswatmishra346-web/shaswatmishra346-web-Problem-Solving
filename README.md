@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
