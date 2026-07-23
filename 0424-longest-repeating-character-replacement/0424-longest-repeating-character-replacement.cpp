@@ -12,7 +12,7 @@ public:
                 freq[s[low]]--;
                 low++;
             }
-
+        if((high - low +1 )- maxCount <= k)
             maxLen = max(maxLen, high - low + 1);
         }
 
