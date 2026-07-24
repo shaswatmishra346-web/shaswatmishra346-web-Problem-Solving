@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
