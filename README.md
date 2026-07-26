@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
