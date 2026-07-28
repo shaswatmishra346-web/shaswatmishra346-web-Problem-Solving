@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
