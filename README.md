@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -47,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
