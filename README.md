@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2235-add-two-integers) |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
