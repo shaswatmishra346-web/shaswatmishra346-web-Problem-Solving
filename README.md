@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0219-contains-duplicate-ii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -64,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
