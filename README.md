@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
