@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [2235-add-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2235-add-two-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
