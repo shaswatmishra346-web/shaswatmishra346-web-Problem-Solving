@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
+| [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
