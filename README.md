@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1688-count-of-matches-in-tournament](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
