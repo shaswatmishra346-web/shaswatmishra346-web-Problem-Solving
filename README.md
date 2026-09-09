@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0561-array-partition) |
 ## Stack
 |  |
