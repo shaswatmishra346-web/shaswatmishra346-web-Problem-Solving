@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
 | ------- |
