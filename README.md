@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1688-count-of-matches-in-tournament](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2235-add-two-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -232,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
