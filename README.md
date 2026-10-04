@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
