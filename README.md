@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
