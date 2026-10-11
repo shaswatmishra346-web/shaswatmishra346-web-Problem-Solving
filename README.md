@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
