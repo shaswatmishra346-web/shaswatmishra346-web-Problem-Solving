@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0371-sum-of-two-integers) |
@@ -196,10 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0877-stone-game) |
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 ## Bit Manipulation
 |  |
@@ -307,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
