@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
