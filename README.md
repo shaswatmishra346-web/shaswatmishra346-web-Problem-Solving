@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0342-power-of-four) |
