@@ -8,24 +8,25 @@ public:
             pair<int, int>,
             vector<pair<int, int>>,
             greater<pair<int, int>>> pq;
-        for(auto& [num, frequency] : dict) {
-            pair<int, int> newPair = {
-                frequency,
-                num
-            };
-            if(pq.size() < k)
-                pq.push(newPair);
-            else { // curr.first > top.first
-                pq.push(newPair);
-                pq.pop();
-                
+        for(auto& i : dict) {
+            int element = i.first;
+            int freq = i.second;
+            pair<int, int> curr = {freq, element};
+            if(pq.size() < k) {
+                pq.push(curr);
+                continue;
             }
+            if(curr.first < pq.top().first) {
+                continue;
+            }
+            pq.pop();
+            pq.push(curr);
         }
-        vector<int> result;
+        vector<int> res;
         while(!pq.empty()) {
-            result.push_back(pq.top().second);
+            res.push_back(pq.top().second);
             pq.pop();
         }
-        return result;
+        return res;
     }
 };
