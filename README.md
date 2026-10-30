@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1021-remove-outermost-parentheses) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0739-daily-temperatures) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0561-array-partition) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
@@ -339,4 +345,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
