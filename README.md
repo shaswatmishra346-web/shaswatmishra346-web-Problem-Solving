@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
