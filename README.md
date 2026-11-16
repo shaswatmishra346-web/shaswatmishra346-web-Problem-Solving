@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3174-clear-digits) |
 ## Sliding Window
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/0946-validate-stack-sequences) |
 | [1688-count-of-matches-in-tournament](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/1688-count-of-matches-in-tournament) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/shaswatmishra346-web/shaswatmishra346-web-Problem-Solving/tree/master/3304-find-the-k-th-character-in-string-game-i) |
